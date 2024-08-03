@@ -19,11 +19,12 @@ This project is a basic calculator web application that performs simple arithmet
    - Use the operation buttons (`+`, `-`, `×`, `÷`) to perform calculations.
    - Press the `=` button to get the result.
 2. **Clear**: 
-   - Use the `C` button to clear the current input and start a new calculation.\
+   - Use the `C` button to clear the current input and start a new calculation.
 
   ## Demo
   [live link] (http://127.0.0.1:5500/calculator/index.html)
 
   ## Contact 
   Ruhi Parween - parweenruhi912@gmail.com
+  <br>
   Project Link: https://github.com/ruhi19par/Calculator
